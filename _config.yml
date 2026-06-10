@@ -13,9 +13,9 @@ title                    : "Joe Canzano"
 title_separator          : "-"
 name                     : &name "Joe Canzano"
 description              : &description "Systems neuroscientist at UCSB"
-url                      : https://yourusername.github.io
+url                      : https://jscanzano.github.io
 baseurl                  : ""
-repository               : "yourusername/yourusername.github.io"
+repository               : "jscanzano/jscanzano.github.io"
 
 # Site Author
 author:
